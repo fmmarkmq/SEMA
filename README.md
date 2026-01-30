@@ -1,7 +1,11 @@
 # SEMA
-The official repository for the paper: *SEMA: Simple yet Effective Learning for Multi-Turn Jailbreak Attacks*. Our full codes are currently undergoing review by Microsoft Research. We will release them as soon as possible.
+The official repository for the paper: *SEMA: Simple yet Effective Learning for Multi-Turn Jailbreak Attacks*.
 
 **2025/1/25 Update:** Our paper has been accepted to ICLR 2026 main conference!
+
+## Notes
+
+**Our full codes are currently undergoing review by Microsoft Research. We will release them as soon as possible.**
 
 # Overview
 
