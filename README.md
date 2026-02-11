@@ -1,5 +1,5 @@
 # SEMA
-The official repository for the paper: *SEMA: Simple yet Effective Learning for Multi-Turn Jailbreak Attacks*.
+The official repository for the paper: [*SEMA: Simple yet Effective Learning for Multi-Turn Jailbreak Attacks*](https://arxiv.org/abs/2602.06854).
 
 **2025/1/25 Update:** Our paper has been accepted to ICLR 2026 main conference!
 
