@@ -1,15 +1,15 @@
 # SEMA
 The official repository for the paper: [*SEMA: Simple yet Effective Learning for Multi-Turn Jailbreak Attacks*](https://arxiv.org/abs/2602.06854).
 
-**2025/1/25 Update:** Our paper has been accepted to ICLR 2026 main conference!
+**2025/1/25 Update:** Our paper has been accepted to the ICLR 2026 main conference!
 
 ## Notes
 
-**Our full codes are currently undergoing review by Microsoft Research. We will release them as soon as possible.**
+**Our full code is currently undergoing review by Microsoft Research. We will release them before the ICLR main conference!**
 
 # Overview
 
-We train a open-loop, response-agnostic multi-turn jailbreak attacker with two stages: *Prefiiling Self-Tuning* and *Reinforcement Learning with Intent-drift-aware Reward*.
+We train an open-loop, response-agnostic multi-turn jailbreak attacker with two stages: *Prefilling Self-Tuning* and *Reinforcement Learning with Intent-drift-aware Reward*.
 
 # Quick Start
 
@@ -21,7 +21,7 @@ conda activate sema
 pip install -r requirements.txt
 ```
 
-## Stage I: Prefiiling Self-Tuning
+## Stage I: Prefilling Self-Tuning
 
 Check `scripts` for all provided scripts. For example, the following script runs *Prefilling Self-Tuning* on *meta-llama/Llama-3.1-8B-Instruct* using 4xH100 gpus.
 
