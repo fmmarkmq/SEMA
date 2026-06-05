@@ -5,7 +5,7 @@ The official repository for the paper: [*SEMA: Simple yet Effective Learning for
 
 ## Notes
 
-**Our full code is currently undergoing review by Microsoft Research. We will release them before the ICLR main conference!**
+**Our full code is currently under review by Microsoft Research and cannot be publicly released at this time. However, we can provide direct access once you agree to our “SEMA Code Access Terms and Responsible Use Agreement.” Please email `mingqian.feng@rochester.edu` for further details.**
 
 # Overview
 
