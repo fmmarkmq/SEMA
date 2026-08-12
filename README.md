@@ -5,7 +5,7 @@ The official repository for the paper: [*SEMA: Simple yet Effective Learning for
 
 ## Notes
 
-**Good news, our code finally gets approval to be public from Microsoft Now you can directly access it by [*Microsoft/SEMA*](https://github.com/microsoft/SEMA).**
+**Good news, our code finally gets approval to be public from Microsoft. Now you can directly access it by [*Microsoft/SEMA*](https://github.com/microsoft/SEMA).**
 
 # Overview
 
