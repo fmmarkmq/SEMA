@@ -18,10 +18,6 @@ SEMA is a framework for training open-loop, response-agnostic multi-turn jailbre
 > requests, please use the upstream repository. See [NOTICE.md](NOTICE.md) for full attribution
 > and the list of differences from upstream.
 
-**2025/1/25 Update:** Our paper has been accepted to the ICLR 2026 main conference!
-
-**Update:** Our code has been approved for public release by Microsoft, and is now available at [microsoft/SEMA](https://github.com/microsoft/SEMA). This repository mirrors it.
-
 ## Installation
 
 ### Docker (recommended)
