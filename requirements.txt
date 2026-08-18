@@ -1,0 +1,19 @@
+# Pinned to match the published training image, allenlao/sema:v0.1 (Python 3.12.3, CUDA 12.6).
+# These versions are what the paper's experiments actually ran on — please verify any bump
+# against the image before merging it.
+
+trl==0.20.0
+kernels==0.9.0
+vllm==0.10.0
+litellm[caching]==1.74.8
+python-dotenv==1.1.0
+deepspeed==0.17.4
+wandb==0.28.1  # wandb login
+torch==2.7.1
+transformers==4.57.6
+accelerate==1.12.0
+datasets==4.5.0
+
+# Optional: only needed for LoRA runs (`--use_peft`). trl.get_peft_config returns None without
+# it when use_peft is False, which is the default. Not present in allenlao/sema:v0.1.
+# peft==0.19.1
